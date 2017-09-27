@@ -1,0 +1,3 @@
+F:\base\Release\BasicSyntax\MilesToKilometers\bin\Debug\MilesToKilometers.exe.config
+F:\base\Release\BasicSyntax\MilesToKilometers\obj\Debug\MilesToKilometers.exe
+F:\base\Release\BasicSyntax\MilesToKilometers\obj\Debug\MilesToKilometers.pdb

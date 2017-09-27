@@ -1,0 +1,5 @@
+F:\base\Release\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+F:\base\Release\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+F:\base\Release\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+F:\base\Release\BasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+F:\base\Release\BasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb

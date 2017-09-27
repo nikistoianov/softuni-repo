@@ -1,0 +1,5 @@
+F:\base\Release\BasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+F:\base\Release\BasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.exe
+F:\base\Release\BasicSyntax\BeverageLabels\bin\Debug\BeverageLabels.pdb
+F:\base\Release\BasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.exe
+F:\base\Release\BasicSyntax\BeverageLabels\obj\Debug\BeverageLabels.pdb
