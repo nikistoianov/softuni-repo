@@ -1,5 +1,0 @@
-F:\base\Release\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe.config
-F:\base\Release\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe
-F:\base\Release\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.pdb
-F:\base\Release\BasicSyntax\RectangleArea\obj\Debug\RectangleArea.exe
-F:\base\Release\BasicSyntax\RectangleArea\obj\Debug\RectangleArea.pdb

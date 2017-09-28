@@ -1,5 +1,0 @@
-F:\base\Release\BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
-F:\base\Release\BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
-F:\base\Release\BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
-F:\base\Release\BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
-F:\base\Release\BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

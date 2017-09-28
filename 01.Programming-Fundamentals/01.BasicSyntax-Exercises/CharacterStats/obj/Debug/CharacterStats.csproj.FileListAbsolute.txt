@@ -1,1 +1,0 @@
-F:\base\Release\BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config

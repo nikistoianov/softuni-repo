@@ -1,1 +1,0 @@
-F:\base\Release\BasicSyntax\RectangleArea\bin\Debug\RectangleArea.exe.config
