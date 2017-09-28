@@ -5,3 +5,5 @@ Update with Tortoise…
 OK
 
 тест на кирилица
+
+Local edit
