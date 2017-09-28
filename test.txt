@@ -1,7 +1,9 @@
 File from GitHub
 
 
-Update with Tortoise…
+Update with TortoiseвЂ¦
 OK
 
-тест на кирилица
+ГІГҐГ±ГІ Г­Г  ГЄГЁГ°ГЁГ«ГЁГ¶Г 
+
+Edit on hub...
