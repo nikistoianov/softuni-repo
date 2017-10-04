@@ -10,3 +10,12 @@ C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.
 F:\base\Release\VersionTest\VersionTest\bin\Debug\VersionTest.exe.config
 F:\base\Release\VersionTest\VersionTest\obj\Debug\VersionTest.exe
 F:\base\Release\VersionTest\VersionTest\obj\Debug\VersionTest.pdb
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\bin\Debug\VersionTest.exe.config
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.exe
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.pdb
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\bin\Debug\VersionTest.exe
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\bin\Debug\VersionTest.pdb
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.csprojResolveAssemblyReference.cache
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.Form1.resources
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.Properties.Resources.resources
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.csproj.GenerateResource.Cache
