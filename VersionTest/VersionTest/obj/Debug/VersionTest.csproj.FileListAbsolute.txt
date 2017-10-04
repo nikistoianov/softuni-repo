@@ -1,0 +1,12 @@
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\bin\Debug\VersionTest.exe.config
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\bin\Debug\VersionTest.exe
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\bin\Debug\VersionTest.pdb
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.csprojResolveAssemblyReference.cache
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.Properties.Resources.resources
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.csproj.GenerateResource.Cache
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.exe
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.pdb
+C:\Users\nik\AppData\Local\Temporary Projects\VersionTest\obj\Debug\VersionTest.Form1.resources
+F:\base\Release\VersionTest\VersionTest\bin\Debug\VersionTest.exe.config
+F:\base\Release\VersionTest\VersionTest\obj\Debug\VersionTest.exe
+F:\base\Release\VersionTest\VersionTest\obj\Debug\VersionTest.pdb
