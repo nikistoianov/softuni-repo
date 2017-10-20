@@ -1,0 +1,7 @@
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\bin\Debug\UsefulMethods.exe.config
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\bin\Debug\UsefulMethods.exe
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\bin\Debug\UsefulMethods.pdb
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\obj\Debug\UsefulMethods.csprojResolveAssemblyReference.cache
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\obj\Debug\UsefulMethods.csproj.CoreCompileInputs.cache
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\obj\Debug\UsefulMethods.exe
+F:\base\SoftUni\softuni-repo\UsefulMethods\UsefulMethods\obj\Debug\UsefulMethods.pdb

@@ -19,3 +19,4 @@ F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.cspro
 F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.Form1.resources
 F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.Properties.Resources.resources
 F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.csproj.GenerateResource.Cache
+F:\base\SoftUni\softuni-repo\VersionTest\VersionTest\obj\Debug\VersionTest.csproj.CoreCompileInputs.cache
