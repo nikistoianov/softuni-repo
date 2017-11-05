@@ -1,0 +1,7 @@
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\bin\Debug\1.SweetDessert.exe.config
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\bin\Debug\1.SweetDessert.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\bin\Debug\1.SweetDessert.pdb
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\obj\Debug\1.SweetDessert.csprojResolveAssemblyReference.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\obj\Debug\1.SweetDessert.csproj.CoreCompileInputs.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\obj\Debug\1.SweetDessert.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\1.SweetDessert\obj\Debug\1.SweetDessert.pdb

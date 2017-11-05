@@ -1,0 +1,7 @@
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\bin\Debug\3.FootballStandings.exe.config
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\bin\Debug\3.FootballStandings.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\bin\Debug\3.FootballStandings.pdb
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\obj\Debug\3.FootballStandings.csprojResolveAssemblyReference.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\obj\Debug\3.FootballStandings.csproj.CoreCompileInputs.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\obj\Debug\3.FootballStandings.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\3.FootballStandings\obj\Debug\3.FootballStandings.pdb

@@ -1,0 +1,7 @@
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\bin\Debug\2.ArrayManipulator.exe.config
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\bin\Debug\2.ArrayManipulator.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\bin\Debug\2.ArrayManipulator.pdb
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\obj\Debug\2.ArrayManipulator.csproj.CoreCompileInputs.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\obj\Debug\2.ArrayManipulator.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\obj\Debug\2.ArrayManipulator.pdb
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\2.ArrayManipulator\obj\Debug\2.ArrayManipulator.csprojResolveAssemblyReference.cache

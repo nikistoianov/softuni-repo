@@ -1,0 +1,7 @@
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\bin\Debug\4.CubicsMessages.exe.config
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\bin\Debug\4.CubicsMessages.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\bin\Debug\4.CubicsMessages.pdb
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\obj\Debug\4.CubicsMessages.csprojResolveAssemblyReference.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\obj\Debug\4.CubicsMessages.csproj.CoreCompileInputs.cache
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\obj\Debug\4.CubicsMessages.exe
+E:\CSharp\GitHub\softuni-repo\ExamPreparationIV\4.CubicsMessages\obj\Debug\4.CubicsMessages.pdb
