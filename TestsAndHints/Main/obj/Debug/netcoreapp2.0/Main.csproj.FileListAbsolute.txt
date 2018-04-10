@@ -1,0 +1,11 @@
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\bin\Debug\netcoreapp2.0\Main.deps.json
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\bin\Debug\netcoreapp2.0\Main.runtimeconfig.json
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\bin\Debug\netcoreapp2.0\Main.runtimeconfig.dev.json
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\bin\Debug\netcoreapp2.0\Main.dll
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\bin\Debug\netcoreapp2.0\Main.pdb
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\obj\Debug\netcoreapp2.0\Main.csprojResolveAssemblyReference.cache
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\obj\Debug\netcoreapp2.0\Main.csproj.CoreCompileInputs.cache
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\obj\Debug\netcoreapp2.0\Main.AssemblyInfoInputs.cache
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\obj\Debug\netcoreapp2.0\Main.AssemblyInfo.cs
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\obj\Debug\netcoreapp2.0\Main.dll
+F:\base\SoftUni\GitHub\softuni-repo\TestsAndHints\Main\obj\Debug\netcoreapp2.0\Main.pdb
